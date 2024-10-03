@@ -31,6 +31,10 @@ Monitor and evaluate employee performance.
 # 💍 Marital Status & Gender: 
 Understand the diversity within the workforce.
 
+# 🔗 Link To Repository
+
+https://github.com/Afsheenfatymah/HR_Dashboard_Report.git
+
 
 # 🏢 Department Overview:
 Gain insights into various departments in the company.
@@ -38,6 +42,7 @@ Gain insights into various departments in the company.
 This project not only highlights the power of data visualization but also aims to support HR strategies effectively.
 
 Feel free to explore the code and visuals! Your feedback and contributions are welcome. 🙌
+
 
 # 📧 Contact Information:
 
